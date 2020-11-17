@@ -1,1 +1,2 @@
-This is sample file. Sample file used to practise git commands.
+This is sample file.Using sample command to merge the file.
+
